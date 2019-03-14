@@ -1,0 +1,56 @@
+{
+  "baseRepositoryPath" : "../../",
+  "localServices" : [
+    {
+      "name" : "access-controller"
+    },
+    {
+      "name" : "actions-manager"
+    },
+    {
+      "name" : "activity-monitor"
+    },
+    {
+      "name" : "data-accessor",
+    },
+    {
+      "name" : "identity-manager"
+    },
+    {
+      "name" : "label-service"
+    },
+    {
+      "name" : "linkable-items"
+    },
+    {
+      "name" : "list-manager"
+    },
+    {
+      "name" : "mud"
+    },
+    {
+      "name" : "notifications-dispatcher"
+    },
+    {
+      "name" : "project-manager"
+    },
+    {
+      "name" : "rpt",
+    },
+    {
+      "name" : "user-inboxes"
+    },
+    {
+      "name" : "user-navigator"
+    },
+    {
+      "name" : "user-stance"
+    },
+    {
+      "name" : "user-summaries"
+    },
+    {
+      "name" : "webclipper"
+    }
+  ]
+}
